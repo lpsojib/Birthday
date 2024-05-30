@@ -61,7 +61,8 @@
     .giftbox {
         height: 150px;
         width: 225px;
-        bottom: 20%;
+        bottom: 0%;
+        margin-bottom: 20%;
         margin-left: -107px;
     }
 
